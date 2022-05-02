@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ev-hopkins
 - 👀 I’m interested in networks, python, JS, shell script and web development
-- 🌱 I’m currently learning GO
+- 🌱 I’m currently learning data structures and algorithms in Python
 - 💞️ I’m looking to collaborate on ... anything!
 - 📫 Reach out to me on LinkedIn https://www.linkedin.com/in/evan-hopkins-b06083129/
 
